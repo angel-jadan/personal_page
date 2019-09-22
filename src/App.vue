@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="https://angel-jadan.github.io/personal_page/assets/logo.png">
+    <img src="https://angel-jadan.github.io/personal_page/dist/logo.png">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
