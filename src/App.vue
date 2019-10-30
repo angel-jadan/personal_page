@@ -24,7 +24,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'W E L C O M E'
+      msg: 'W E L C O M E sd'
     }
   }
 }
