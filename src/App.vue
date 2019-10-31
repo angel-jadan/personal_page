@@ -1,21 +1,15 @@
 <template>
   <div id="app">
-    <img src="https://angel-jadan.github.io/personal_page/dist/logo.png">
-    <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
-    </ul>
-    <h2>Ecosystem</h2>
-    <ul>
-      <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
-      <li><a href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
-      <li><a href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
-    </ul>
+    <div>
+      <li>INICIO</li>
+      <li>ACERCA DE</li>
+      <li>PORTAFOLIO</li>
+      <li>SERVICIOS</li>
+      <li>CONTACTO</li>
+    </div>
+    <img src="/dist/logo.png">
+    <h3></h3>
+    <h2></h2>
   </div>
 </template>
 
@@ -24,7 +18,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'W E L C O M E sd'
+      msg: 'W E L C O M E'
     }
   }
 }
