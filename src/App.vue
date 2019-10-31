@@ -7,7 +7,7 @@
       <li>SERVICIOS</li>
       <li>CONTACTO</li>
     </div>
-    <img src="/dist/logo.png">
+    <img src="https://angel-jadan.github.io/personal_page/dist/logo.png">
     <h3></h3>
     <h2></h2>
   </div>
